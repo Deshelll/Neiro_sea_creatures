@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\early\\Desktop\\kurs2\\PythonApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF8A7F4-C453-43DD-AE2E-5773300D47A5}|PythonApplication1\\PythonApplication1.pyproj|C:\\Users\\early\\Desktop\\kurs2\\PythonApplication1\\PythonApplication1\\model_building.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EEF8A7F4-C453-43DD-AE2E-5773300D47A5}|PythonApplication1\\PythonApplication1.pyproj|solutionrelative:PythonApplication1\\model_building.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF8A7F4-C453-43DD-AE2E-5773300D47A5}|PythonApplication1\\PythonApplication1.pyproj|C:\\Users\\early\\Desktop\\kurs2\\PythonApplication1\\PythonApplication1\\gui.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EEF8A7F4-C453-43DD-AE2E-5773300D47A5}|PythonApplication1\\PythonApplication1.pyproj|solutionrelative:PythonApplication1\\gui.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF8A7F4-C453-43DD-AE2E-5773300D47A5}|PythonApplication1\\PythonApplication1.pyproj|C:\\Users\\early\\Desktop\\kurs2\\PythonApplication1\\PythonApplication1\\data_preparation.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EEF8A7F4-C453-43DD-AE2E-5773300D47A5}|PythonApplication1\\PythonApplication1.pyproj|solutionrelative:PythonApplication1\\data_preparation.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF8A7F4-C453-43DD-AE2E-5773300D47A5}|PythonApplication1\\PythonApplication1.pyproj|C:\\Users\\early\\Desktop\\kurs2\\PythonApplication1\\PythonApplication1\\training.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EEF8A7F4-C453-43DD-AE2E-5773300D47A5}|PythonApplication1\\PythonApplication1.pyproj|solutionrelative:PythonApplication1\\training.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF8A7F4-C453-43DD-AE2E-5773300D47A5}|PythonApplication1\\PythonApplication1.pyproj|C:\\Users\\early\\Desktop\\kurs2\\PythonApplication1\\PythonApplication1\\testing.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EEF8A7F4-C453-43DD-AE2E-5773300D47A5}|PythonApplication1\\PythonApplication1.pyproj|solutionrelative:PythonApplication1\\testing.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF8A7F4-C453-43DD-AE2E-5773300D47A5}|PythonApplication1\\PythonApplication1.pyproj|C:\\Users\\early\\Desktop\\kurs2\\PythonApplication1\\PythonApplication1\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EEF8A7F4-C453-43DD-AE2E-5773300D47A5}|PythonApplication1\\PythonApplication1.pyproj|solutionrelative:PythonApplication1\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF8A7F4-C453-43DD-AE2E-5773300D47A5}|PythonApplication1\\PythonApplication1.pyproj|C:\\Users\\early\\Desktop\\kurs2\\PythonApplication1\\PythonApplication1\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EEF8A7F4-C453-43DD-AE2E-5773300D47A5}|PythonApplication1\\PythonApplication1.pyproj|solutionrelative:PythonApplication1\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.py",
+              "DocumentMoniker": "C:\\Users\\early\\Desktop\\kurs2\\PythonApplication1\\PythonApplication1\\main.py",
+              "RelativeDocumentMoniker": "PythonApplication1\\main.py",
+              "ToolTip": "C:\\Users\\early\\Desktop\\kurs2\\PythonApplication1\\PythonApplication1\\main.py",
+              "RelativeToolTip": "PythonApplication1\\main.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-26T16:25:08.445Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "testing.py",
+              "DocumentMoniker": "C:\\Users\\early\\Desktop\\kurs2\\PythonApplication1\\PythonApplication1\\testing.py",
+              "RelativeDocumentMoniker": "PythonApplication1\\testing.py",
+              "ToolTip": "C:\\Users\\early\\Desktop\\kurs2\\PythonApplication1\\PythonApplication1\\testing.py",
+              "RelativeToolTip": "PythonApplication1\\testing.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-29T01:36:22.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "test.txt",
+              "DocumentMoniker": "C:\\Users\\early\\Desktop\\kurs2\\PythonApplication1\\PythonApplication1\\test.txt",
+              "RelativeDocumentMoniker": "PythonApplication1\\test.txt",
+              "ToolTip": "C:\\Users\\early\\Desktop\\kurs2\\PythonApplication1\\PythonApplication1\\test.txt",
+              "RelativeToolTip": "PythonApplication1\\test.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-28T20:03:49.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gui.py",
+              "DocumentMoniker": "C:\\Users\\early\\Desktop\\kurs2\\PythonApplication1\\PythonApplication1\\gui.py",
+              "RelativeDocumentMoniker": "PythonApplication1\\gui.py",
+              "ToolTip": "C:\\Users\\early\\Desktop\\kurs2\\PythonApplication1\\PythonApplication1\\gui.py",
+              "RelativeToolTip": "PythonApplication1\\gui.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-28T02:51:05.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "data_preparation.py",
+              "DocumentMoniker": "C:\\Users\\early\\Desktop\\kurs2\\PythonApplication1\\PythonApplication1\\data_preparation.py",
+              "RelativeDocumentMoniker": "PythonApplication1\\data_preparation.py",
+              "ToolTip": "C:\\Users\\early\\Desktop\\kurs2\\PythonApplication1\\PythonApplication1\\data_preparation.py",
+              "RelativeToolTip": "PythonApplication1\\data_preparation.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-27T14:43:22.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "training.py",
+              "DocumentMoniker": "C:\\Users\\early\\Desktop\\kurs2\\PythonApplication1\\PythonApplication1\\training.py",
+              "RelativeDocumentMoniker": "PythonApplication1\\training.py",
+              "ToolTip": "C:\\Users\\early\\Desktop\\kurs2\\PythonApplication1\\PythonApplication1\\training.py",
+              "RelativeToolTip": "PythonApplication1\\training.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-26T16:26:30.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "model_building.py",
+              "DocumentMoniker": "C:\\Users\\early\\Desktop\\kurs2\\PythonApplication1\\PythonApplication1\\model_building.py",
+              "RelativeDocumentMoniker": "PythonApplication1\\model_building.py",
+              "ToolTip": "C:\\Users\\early\\Desktop\\kurs2\\PythonApplication1\\PythonApplication1\\model_building.py",
+              "RelativeToolTip": "PythonApplication1\\model_building.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-26T16:26:13.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
